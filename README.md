@@ -15,7 +15,7 @@ The user interface is based on [wxWidgets](https://www.wxwidgets.org/) and was m
 ## How to cite
 
 ```bibtex
-@software{SDM_Plugin_IfcTruss,
+@software{SDM_Plugin_Building_Property_Editor,
 	title        = {SDM_Plugin_Building_Property_Editor},
 	author       = {{Andreas Geiger}},
 	url          = {https://github.com/KIT-IAI/SDM_Plugin_Building_Property_Editor},
