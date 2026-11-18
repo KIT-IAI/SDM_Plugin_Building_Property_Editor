@@ -1,6 +1,7 @@
 # CityGML Building Property Editor
 The CityGML Building Property Editor Plugin is a Python plugin for the KITModelViewer Python API that allows to view and edit CityGML attributes — such as bldg:function or bldg:YearOfConstruction — for a selected building or building component.
 
+<img width="1568" height="910" alt="grafik" src="https://github.com/user-attachments/assets/1e5d8fbc-320f-4cb2-bac2-bc9c60b270ba" />
 
 ## User Interface
 
