@@ -1,5 +1,5 @@
-# CityGML Building Properties Editor
-The "CityGML Building Properties Editor" plugin is a Python plugin for the [KITModelViewer](https://github.com/KIT-IAI/SDM_KITModelViewer) and the [Python API](https://github.com/KIT-IAI/SDM_Plugin_Python) that allows to view and edit CityGML properties — such as bldg:function or bldg:YearOfConstruction — for a selected building or building part.
+# CityGML Building Property Editor
+The "CityGML Building Property Editor" plugin is a Python plugin for the [KITModelViewer](https://github.com/KIT-IAI/SDM_KITModelViewer) and the [Python API](https://github.com/KIT-IAI/SDM_Plugin_Python) that allows to view and edit CityGML properties — such as bldg:function or bldg:YearOfConstruction — for a selected building or building part.
 
 > [!NOTE]
 > This plugin is compatible with KITModelViewer version 7.7 and later.
